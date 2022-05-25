@@ -1,0 +1,44 @@
+body {
+  font-style: italic;
+  text-align: center;
+  color: #FF0000;
+    
+}
+body2{
+  font-style: italic;
+  text-align: center;
+  color: #0000FF
+}
+p { text-decoration: underline; }
+  p {
+    text-align: center;
+  font-size: 18px;
+  line-height: 20px;
+  color: #800000;
+    font-weight: bold;
+     font-style: italic;
+}
+
+button{
+ 
+  font-size: 18px;
+  line-height: 12px;
+  color: #800000;
+}
+li {
+  font-size: 18px;
+ 
+  list-style-type: lower-roman;
+  list-style-position: inside;
+  }
+p2 {
+  font-size: 30px;
+  font-weight: bold;
+  list-style-type: lower-roman;
+  
+  }
+blockquote{
+ 
+}
+
+body{background-color:black}
